@@ -118,7 +118,7 @@
 				TargetAttributes = {
 					3F9BF36C1D21CD5A00805054 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = U2PJV837D8;
+						DevelopmentTeam = MR77TZQA37;
 						DevelopmentTeamName = Tekserve;
 						ProvisioningStyle = Automatic;
 					};
@@ -293,7 +293,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 5;
-				DEVELOPMENT_TEAM = U2PJV837D8;
+				DEVELOPMENT_TEAM = MR77TZQA37;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Hancock/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -313,7 +313,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 5;
-				DEVELOPMENT_TEAM = U2PJV837D8;
+				DEVELOPMENT_TEAM = MR77TZQA37;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Hancock/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
